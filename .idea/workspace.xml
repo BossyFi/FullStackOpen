@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acf5e5f1-9eb8-4b18-8922-4414dac5834a" name="Changes" comment="[Part1] CourtseInfo Done">
+      <change afterPath="$PROJECT_DIR$/part2/courseinfo/src/components/Course.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/courseinfo/src/components/Courses.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/anecdotes/src/assets/react.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1741790666316</updated>
       <workItem from="1741790667316" duration="9425000" />
-      <workItem from="1741856856365" duration="2092000" />
+      <workItem from="1741856856365" duration="2869000" />
+      <workItem from="1741883515467" duration="5554000" />
     </task>
     <servers />
   </component>
